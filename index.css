@@ -1,0 +1,81 @@
+.Body{
+    background-color:rgb(215, 228, 215);
+}
+.top-box{
+    border: 1px solid black;
+    height: 100px;
+    width: 1000px;
+    background-color:black;
+}
+.row{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.icon-box{
+    border: 1px solid black;
+    height: 49px;
+    width: 45px;
+    margin-left: 40px;
+    margin-top: 25px;
+    background-color:white;
+    border-radius: 90%;
+}
+.text{
+    color: white;
+    text-align: justify;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.side-box{
+    border: 1px solid rgba(0, 0, 0, 0.726);
+    width: 200px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 60px;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.726);
+}
+input{
+    border: 1px solid rgba(0, 0, 0, 0.616);
+    background-color: rgba(0, 0, 0, 0.623);
+    border-radius: 8%;
+    width: 550px;
+    margin-left: 300px;
+}
+.box-inside1{
+    border: 1px solid rgba(0, 0, 0, 0.644);
+    width: 170px;
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 240px;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+.box-inside2{
+    border: 1px solid rgba(0, 0, 0, 0.644);
+    width: 170px;
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 390px;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+.box-inside3{
+    border: 1px solid rgba(0, 0, 0, 0.644);
+    width: 170px;
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 540px;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.685);
+}
+.last-box{
+    border: 1px solid rgba(0, 0, 0, 0.664);
+    width: 575px;
+    height: 150px;
+    margin-top: 60px;
+    margin-left: 300px;
+    border-radius: 5%;
+    background-color: rgba(0, 0, 0, 0.637);
+}
